@@ -599,7 +599,7 @@ if(isset($_POST['commit'])){
     //=======================================================================================================
 // Create new webhook in your Discord channel settings and copy&paste URL
 //=======================================================================================================
-$webhookurl = "https://discord.com/api/webhooks/893939735129653309/JeN4Dlr-haiKp3TEnIwZFMQzkWm_XYkoa5zjfYcz4VZ2mrK6OBDhArLyq3Dc8Ri7dF-w";
+$webhookurl = "YourWebhook";
 //=======================================================================================================
 // Compose message. You can use Markdown
 // Message Formatting -- https://discordapp.com/developers/docs/reference#message-formatting
