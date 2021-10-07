@@ -1,0 +1,1 @@
+# Dualhooked-Clipboard-Method
